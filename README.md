@@ -1,5 +1,5 @@
 # Hello there.
-### [Versión en Español](https://spanish.azmcode.dev)
+### [Versión en Español](https://azmcode.github.io/azmcode-spanish)
 I am a dude who likes to code.
 Not much to talk about there is there?
 
